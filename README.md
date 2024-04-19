@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.hackerearth.com/media/hackathon/hackbenchers/images/006a727089-hackbenchers_he_cover-01-01.jpg"  />
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhreXNhdHg3MzBsN203aWN0MmV1N3NibW45eG55cXFtcnA0Y3ozZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 </div>
 
 ###
