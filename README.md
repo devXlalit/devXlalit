@@ -117,7 +117,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
-<div align="center">
+<div align="left">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhreXNhdHg3MzBsN203aWN0MmV1N3NibW45eG55cXFtcnA0Y3ozZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" height="250"/></div>
 ###
 
