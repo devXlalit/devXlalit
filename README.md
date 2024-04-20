@@ -22,7 +22,11 @@
   </a>
 </div>
 
-###
+<div align="center">
+  <br/>
+  
+[![](https://visitcount.itsvg.in/api?id=devXlalit&icon=9&color=0)](https://visitcount.itsvg.in)
+</div>
 
 <h1 align="center">hey there 👋</h1>
 
@@ -119,8 +123,15 @@
 </div>
 <div align="left">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhreXNhdHg3MzBsN203aWN0MmV1N3NibW45eG55cXFtcnA0Y3ozZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" height="250"/></div>
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=devXlalit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=devXlalit&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devXlalit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=devXlalit&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
