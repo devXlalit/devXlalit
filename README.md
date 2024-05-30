@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">I'm Lalit from India.<br>- 📚 I'm currently learning Web 3.0 , Clound computing<br>- ⚡ In my free time I Teach people coding...😎</p>
+<p align="left">I'm Lalit from India.<br>- 📚 I'm currently learning Web 3.0 , Cloud computing<br>- ⚡ In my free time I Teach people coding...😎</p>
 
 ###
 
