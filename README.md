@@ -14,7 +14,7 @@
   <a href="https://codepen.io/Lalit-Pagare" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
   </a>
-  <a href="https://www.instagram.com/lalit_devl?igsh=dDBlMHgzcmxnY21r" target="_blank">
+  <a href="https://www.instagram.com/lalit_pagare__" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://stackoverflow.com/users/23515297/lalit-pagare" target="_blank">
@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">I'm Lalit from India.<br>- 📚 I'm currently learning Web 3.0 , Cloud computing<br>- ⚡ In my free time I Teach people coding...😎</p>
+<p align="left">I'm Lalit from India.<br>- 📚 I'm currently learning DevOps, System Design, Cloud computing<br>- ⚡ In my free time I Teach people coding...😎</p>
 
 ###
 
